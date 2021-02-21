@@ -1,7 +1,13 @@
+
+![openlayer map on harare city](1.png)
+![openlayer map on harare city](2.png)
+![openlayer map on harare city](3.png)
+![openlayer map on harare city](4.png)
 # Implemented By
 Code by glenchiridza 21/02/2021
 
-Implementation of openlayer maps and angular 11
+Implementation of openlayer maps and angular 11 
+main target harare city
 
 # Openlayermap
 
