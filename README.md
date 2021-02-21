@@ -1,8 +1,8 @@
 
-![openlayer map on harare city](https://github.com/glenchiridza/openlayer_angular11/open_images/1.png)
-![openlayer map on harare city](https://github.com/glenchiridza/openlayer_angular11/open_images/2.png)
-![openlayer map on harare city](https://github.com/glenchiridza/openlayer_angular11/open_images/3.png)
-![openlayer map on harare city](https://github.com/glenchiridza/openlayer_angular11/open_images/4.png)
+![openlayer map on harare city](https://github.com/glenchiridza/openlayer_angular11/tree/master/open_images/open_images/1.png)
+![openlayer map on harare city](https://github.com/glenchiridza/openlayer_angular11/tree/master/open_images/open_images/2.png)
+![openlayer map on harare city](https://github.com/glenchiridza/openlayer_angular11/tree/master/open_images/open_images/3.png)
+![openlayer map on harare city](https://github.com/glenchiridza/openlayer_angular11/tree/master/open_images/open_images/4.png)
 # Implemented By
 Code by glenchiridza 21/02/2021
 
