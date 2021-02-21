@@ -3,8 +3,8 @@
 ![openlayer map on harare city](https://raw.githubusercontent.com/glenchiridza/openlayer_angular11/master/open_images/open2.png)
 ![openlayer map on harare city](https://raw.githubusercontent.com/glenchiridza/openlayer_angular11/master/open_images/open3.png)
 ![openlayer map on harare city](https://raw.githubusercontent.com/glenchiridza/openlayer_angular11/master/open_images/open4.png)
-# Implemented By
-Code by glenchiridza 21/02/2021
+
+glenchiridza 21/02/2021
 
 Implementation of openlayer maps and angular 11 
 main target harare city
